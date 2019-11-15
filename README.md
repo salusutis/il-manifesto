@@ -4,7 +4,7 @@ Nasce il progetto **#salus-utis**
 
 dall'enciclopedia (Treccani), la definizione di salute [lat. salus -ūtis "salvezza, incolumità, integrità, salute", affine a salvus "salvo"] (lett.) [l'essere salvo, inteso per lo più come stato di benessere individuale o collettivo: s. pubblica, patria; la s. dell'anima; la s. eterna] ≈ bene.
 
->Il progetto ha la finalità di divulgare strumenti **open-source** e **open-data** al servizio dell'**INTELLIGENZA COLLETTIVA**.
+>Il progetto ha la finalità di divulgare strumenti **open-source** e diffondere **open-data** al servizio dell'**INTELLIGENZA COLLETTIVA**.
 
 Le motivazioni sono tutte legate all'idea fondamentale che l'intelligenza collettiva vada stimolata e accresciuta secondo le regole della # trasparenza, della # collaborazione e della # partecipazione.
 
