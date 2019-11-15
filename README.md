@@ -1,5 +1,9 @@
 # L'IDEA
 
+Muovendo i primi passi nel contesto della formazione in ambito informatico nelle scuole pubbliche e nei centri di formazione privati abbiamo affrontato temi che dal contesto informatico si dipanavano in questioni di vario genere e soprattutto con una forte ricaduta sociale, quindi umanistica e paradossalmente filosofica. 
+
+Fra tutte, ad appassionarci, è la questione legata al potenziale smisurato che i sistemi di elaborazione dati hanno se interfacciati alla sensoristica sempre più a basso costo e sempre più fedele agli standard internazionali; semplificando, ci siamo posti l’interrogativo su quale sia il valore che si determina e sempre più si svilupperà dall’incontro tra l’analogico ed il digitale impiegando connessioni, algoritmi/librerie e protocolli standard, la risposta è indefinito. Ci siamo interrogati spesso su quale potesse essere la ricaduta che una tale massa critica di informazioni e potenzialità potesse avere sulla  società che ha iniziato a subire tale penetrante e invasiva diffusione, ad esempio tramite i “social” o l’impiego di profili gratuiti di clouding o di IoT’s, in termini di dipendenza e pertanto se da tale dipendenza esistano possibilità di riscatto “fisiologiche”. 
+
 Nasce il progetto **#salus-utis**
 
 dall'enciclopedia (Treccani), la definizione di salute [lat. salus -ūtis "salvezza, incolumità, integrità, salute", affine a salvus "salvo"] (lett.) [l'essere salvo, inteso per lo più come stato di benessere individuale o collettivo: s. pubblica, patria; la s. dell'anima; la s. eterna] ≈ bene.
