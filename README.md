@@ -11,9 +11,9 @@ Le motivazioni sono tutte legate all'idea fondamentale che l'intelligenza collet
 L'accrescimento dell'itelligenza collettiva può giovarsi enormemente della tecnologia, anzi dovrebbe, dato anche l'effetto dell'onda lunga che tra non molto produrrà l'intelligenza artificiale applicata alla nostra mediocrità.
 
 Il progetto si prefigge di:
--[X]pubblicare datasets sulla piattafoprma [CKAN](https://ckan.org/) e [plugin D-CAT](https://www.dati.gov.it/content/ckan-datigovit) per consentire di interagire con il DATA.GOV.IT;
--[X]renderere disponibili in automatico i dati raccolti legati alla qualità della vita dei nostri paesi;
--[X]impiego della tecnologia per divulgare i dataset.
+- [X]pubblicare datasets sulla piattafoprma [CKAN](https://ckan.org/) e [plugin D-CAT](https://www.dati.gov.it/content/ckan-datigovit) per consentire di interagire con il DATA.GOV.IT;
+- [X]renderere disponibili in automatico i dati raccolti legati alla qualità della vita dei nostri paesi;
+- [X]impiego della tecnologia per divulgare i dataset.
 
 I fenomeni della realtà incidono sulla qualità della vita, essi possono essere monitorati "osservando" anche i nostri comportamenti grazie all'impiego di una serie di sistemi, non ultimo la **COMPUTER VISION**. 
 
