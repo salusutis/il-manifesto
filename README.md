@@ -34,5 +34,5 @@ Forkiamo un progetto per iniziare:
 
 >progetto ==> https://luftdaten.info/it/benvenuto/
 
-partiremo di qui, dovendo partire, da un sistema di geolocalizzazione vincitore challenge NASA; lo ritengo rispondente a tutto ciò che fino ad ora ho potuto ricercare e verificare; il progetto utilizza la pratica migliore di sviluppo sia per la scelta dei frameworks di sviluppo sia per le logiche di costruzione.
+partiremo di qui, dovendo partire, da un sistema di geolocalizzazione vincitore challenge NASA; lo ritengo rispondente a tutto ciò che fino ad ora ho potuto ricercare e verificare; il progetto utilizza la pratica migliore di sviluppo sia per la scelta dei frameworks di sviluppo sia per le logiche di costruzione. 
  
