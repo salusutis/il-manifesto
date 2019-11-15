@@ -1,6 +1,6 @@
 # L'IDEA
 
-Nasce il progetto # salus-utis 
+Nasce il progetto **#salus-utis 
 
 dall'enciclopedia (Treccani), la definizione di salute [lat. salus -ūtis "salvezza, incolumità, integrità, salute", affine a salvus "salvo"] (lett.) [l'essere salvo, inteso per lo più come stato di benessere individuale o collettivo: s. pubblica, patria; la s. dell'anima; la s. eterna] ≈ bene.
 
