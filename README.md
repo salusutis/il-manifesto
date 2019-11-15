@@ -6,13 +6,18 @@ dall'enciclopedia (Treccani), la definizione di salute [lat. salus -ūtis "salve
 
 >Il progetto ha la finalità di divulgare strumenti **open-source** e diffondere **open-data** al servizio dell'**INTELLIGENZA COLLETTIVA**.
 
-Le motivazioni sono tutte legate all'idea fondamentale che l'intelligenza collettiva vada stimolata e accresciuta secondo le regole della # trasparenza, della # collaborazione e della # partecipazione.
+Le motivazioni sono tutte legate all'idea fondamentale che l'intelligenza collettiva vada stimolata e accresciuta secondo le regole della __trasparenza__, della __collaborazione__ e della __partecipazione__.
 
 L'accrescimento dell'itelligenza collettiva può giovarsi enormemente della tecnologia, anzi dovrebbe, dato anche l'effetto dell'onda lunga che tra non molto produrrà l'intelligenza artificiale applicata alla nostra mediocrità.
 
-Il progetto si prefigge di pubblicare datasets sulla piattafoprma [CKAN](https://ckan.org/) e [plugin D-CAT](https://www.dati.gov.it/content/ckan-datigovit) per consentire di interagire con il DATA.GOV.IT e renderere disponibili dati legati alla qualità della vita dei nostri paesi.
+Il progetto si prefigge di:
+-[X]pubblicare datasets sulla piattafoprma [CKAN](https://ckan.org/) e [plugin D-CAT](https://www.dati.gov.it/content/ckan-datigovit) per consentire di interagire con il DATA.GOV.IT;
+-[X]renderere disponibili in automatico i dati raccolti legati alla qualità della vita dei nostri paesi;
+-[X]impiego della tecnologia per divulgare i dataset.
 
-La qualità della vita, come tutti i fenomeni della realtà, puà essere monitorata "osservando" i nostri comportamenti ed attraverso una serie di sistemi, non ultima la  # COMPUTER VISION, i DATI prodotti dovranno essere resi "potabili" ai più, ai non addetti ai lavori (alla cittadinanza).     
+I fenomeni della realtà incidono sulla qualità della vita, essi possono essere monitorati "osservando" anche i nostri comportamenti grazie all'impiego di una serie di sistemi, non ultimo la **COMPUTER VISION**. 
+
+I DATI prodotti dovranno essere resi "potabili" ai più, ai non addetti ai lavori (alla cittadinanza).     
 
 Impiegheremo prevalentemente siluzioni DIY (do-it-yourself) ma per rendere il tutto più efficare pubblicheremo un elenco dei prodotti commerciai maggiormente rispondenti ai suddetti principi.
 
