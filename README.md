@@ -15,7 +15,7 @@ Il progetto si prefigge di:
 - [x] renderere disponibili in automatico i dati raccolti legati alla qualità della vita dei nostri paesi;
 - [x] impiego della tecnologia per divulgare i dataset.
 
-I fenomeni della realtà incidono sulla qualità della vita, essi possono essere monitorati "osservando" anche i nostri comportamenti grazie all'impiego di una serie di sistemi, non ultimo la **COMPUTER VISION**. 
+I fenomeni della realtà incidono sulla qualità della vita, essi possono essere monitorati grazie all'impiego di una serie di sistemi, non ultimo la **COMPUTER VISION**. 
 
 I DATI prodotti dovranno essere resi "potabili" ai più, ai non addetti ai lavori (alla cittadinanza).     
 
