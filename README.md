@@ -21,9 +21,10 @@ I DATI prodotti dovranno essere resi "potabili" ai più, ai non addetti ai lavor
 
 Impiegheremo prevalentemente siluzioni DIY (do-it-yourself) ma per rendere il tutto più sistemico potremmo pubblicare un elenco dei prodotti commerciai a ciò funzionali e maggiormente rispondenti ai suddetti principi.
 
-                             - [] [Logiche sistemistiche](docs/sistemistica.md)
-                             - []
-                             - []
+
+                             - [Logiche sistemistiche](docs/sistemistica.md)
+                             
+                           
 
 Forkiamo un progetto per iniziare:
 
