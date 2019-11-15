@@ -19,12 +19,12 @@ I fenomeni della realtà incidono sulla qualità della vita, essi possono essere
 
 I DATI prodotti dovranno essere resi "potabili" ai più, ai non addetti ai lavori (alla cittadinanza).     
 
-Impiegheremo prevalentemente siluzioni DIY (do-it-yourself) ma per rendere il tutto più efficare pubblicheremo un elenco dei prodotti commerciai maggiormente rispondenti ai suddetti principi.
+Impiegheremo prevalentemente siluzioni DIY (do-it-yourself) ma per rendere il tutto più sistemico potremmo pubblicare un elenco dei prodotti commerciai a ciò funzionali e maggiormente rispondenti ai suddetti principi.
 
 Forkiamo un progetto per iniziare:
 
-mappa ==>  https://maps.luftdaten.info/#2/0.0/0.0
-progetto ==> https://luftdaten.info/it/benvenuto/
+>mappa ==>  https://maps.luftdaten.info/#2/0.0/0.0
+>progetto ==> https://luftdaten.info/it/benvenuto/
 
 partiremo di qui, dovendo partire, da un sistema di geolocalizzazione vincitore challenge NASA; lo ritengo rispondente a tutto ciò che fino ad ora ho potuto ricercare e verificare; il progetto utilizza la pratica migliore di sviluppo sia per la scelta dei frameworks di sviluppo sia per le logiche di costruzione.
  
