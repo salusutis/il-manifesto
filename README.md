@@ -24,7 +24,7 @@ Impiegheremo prevalentemente siluzioni DIY (do-it-yourself) ma per rendere il tu
 
 
 - [LOGICHE SISTEMISTICHE](docs/sistemistica.md)
-                          
+- [LOGICHE DI PROGRAMMAZIONE](docs/programmazione.md)                         
                              
                            
 
