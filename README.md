@@ -11,7 +11,7 @@ Le motivazioni sono tutte legate all'idea fondamentale che l'intelligenza collet
 L'accrescimento dell'itelligenza collettiva può giovarsi enormemente della tecnologia, anzi dovrebbe, dato anche l'effetto dell'onda lunga che tra non molto produrrà l'intelligenza artificiale applicata alla nostra mediocrità.
 
 Il progetto si prefigge di:
-- [x] pubblicare datasets sulla piattafoprma [CKAN](https://ckan.org/) e [plugin D-CAT](https://www.dati.gov.it/content/ckan-datigovit) per consentire di interagire con il DATA.GOV.IT;
+- [x] pubblicare datasets sulla piattafoprma [CKAN](https://ckan.org/) e [plugin D-CAT](https://www.dati.gov.it/content/ckan-datigovit) per consentire la possibilità di interagire con il DATA.GOV.IT;
 - [x] renderere disponibili in automatico i dati raccolti legati alla qualità della vita dei nostri paesi;
 - [x] impiego della tecnologia per divulgare i dataset.
 
