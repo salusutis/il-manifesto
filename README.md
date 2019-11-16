@@ -1,10 +1,20 @@
 # L'IDEA
 
-Muovendo i primi passi nel contesto della formazione in ambito informatico nelle scuole pubbliche e nei centri di formazione privati abbiamo affrontato temi che dal contesto informatico si dipanavano in questioni di vario genere e soprattutto con una forte ricaduta sociale, quindi umanistica e paradossalmente filosofica. 
+  Muovendo i primi passi nel contesto della formazione in ambito informatico nelle scuole pubbliche e nei centri di formazione privati abbiamo affrontato temi che dal contesto informatico si dipanavano in questioni di vario genere e soprattutto con una forte ricaduta sociale, quindi umanistica e paradossalmente filosofica. 
 
-Fra tutte, ad appassionarci, è la questione legata al potenziale smisurato che i sistemi di elaborazione dati hanno se interfacciati alla sensoristica sempre più a basso costo e sempre più fedele agli standard internazionali; semplificando, ci siamo posti l’interrogativo su quale sia il valore che si determina e sempre più si svilupperà dall’incontro tra l’analogico ed il digitale impiegando connessioni, algoritmi/librerie e protocolli standard, la risposta è indefinito. Ci siamo interrogati spesso su quale potesse essere la ricaduta che una tale massa critica di informazioni e potenzialità potesse avere sulla  società che ha iniziato a subire tale penetrante e invasiva diffusione, ad esempio tramite i “social” o l’impiego di profili gratuiti di clouding o di IoT’s, in termini di dipendenza e pertanto se da tale dipendenza esistano possibilità di riscatto “fisiologiche”. 
+  Fra tutte, ad appassionarci, è la questione legata al potenziale smisurato che i sistemi di elaborazione dati hanno se interfacciati alla sensoristica sempre più a basso costo e sempre più fedele agli standard internazionali; semplificando, ci siamo posti l’interrogativo su quale sia il valore che si determina e sempre più si svilupperà dall’incontro tra l’analogico ed il digitale impiegando connessioni, algoritmi/librerie e protocolli standard, la risposta è indefinito. Ci siamo interrogati spesso su quale potesse essere la ricaduta che una tale massa critica di informazioni e potenzialità potesse avere sulla  società che ha iniziato a subire tale penetrante e invasiva diffusione, ad esempio tramite i “social” o l’impiego di profili gratuiti di clouding o di IoT’s, in termini di dipendenza e pertanto se da tale dipendenza esistano possibilità di riscatto “fisiologiche”. 
 
-Nasce il progetto **#salus-utis**
+  É opportuno sommare il peso dei processi di apprendimento automatico che avviene utilizzando le macchine che apprendono. Spesso sfugge la portata e la rilevanza che ha una raccolta di dati planetaria unita a processi di auto-encoding delle dinamiche collettive. 
+
+  Attraversando questi spazi siamo giunti alla convinzione che occorre sin da subito sostenere coloro i quali si battono per un bilanciamento delle forze in campo, ossia tra le realtà proprietarie dei suddetti sistemi,  da una parte, e gli utilizzatori finali intesi come veri e propri consumatori.
+
+  Abbiamo preso una posizione decidendo di sostenere i movimenti internazionali di “lotta” contro i sistemi chiusi e proprietari a vantaggio delle soluzioni realizzate con metodologie open-source all’interno di comunità di sviluppo che utilizzano metodologie di cooperazione responsabile e versionata degli apporti ai progetti pubblicati utilizzando algoritmi del calibro di “Git” messi a disposizione nei cosiddetti Github, serbatoi di sistemi di sviluppo dal valore economico notevole.  
+	
+  Frequentando da diversi anni una quantità apprezzabile di “contenitori” di progetti open-source pubblicati ci siamo imbattuti in un “git” taggato come ‘computer vision’, ossia l’abilità di valutare gli spazi partendo dall’analisi delle immagini e/o dei flussi video. Basandosi su patterns predefiniti, che variano a seconda degli standard di riferimento, è possibile innanzi tutto riconoscere gli oggetti in movimento nello spazio e conseguentemente attribuire ad essi processi di qualsivoglia natura.
+	
+  Nell’approfondire l’uso della suddetta tecnologia di computer-vision si sono evidenziate questioni fondamentali di privacy e riservatezza e dall’approfondimento di esse è sorta la prima proposta a realizzarsi con il presente progetto, che prende il nome di “analisi non in chiaro dei comportamenti disfunzionali”.
+
+Nasce il progetto **#SALUS-UTIS**
 
 dall'enciclopedia (Treccani), la definizione di salute [lat. salus -ūtis "salvezza, incolumità, integrità, salute", affine a salvus "salvo"] (lett.) [l'essere salvo, inteso per lo più come stato di benessere individuale o collettivo: s. pubblica, patria; la s. dell'anima; la s. eterna] ≈ bene.
 
