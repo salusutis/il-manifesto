@@ -10,9 +10,15 @@
 
   Abbiamo preso una posizione decidendo di sostenere i movimenti internazionali di “lotta” contro i sistemi chiusi e proprietari a vantaggio delle soluzioni realizzate con metodologie open-source all’interno di comunità di sviluppo che utilizzano metodologie di cooperazione responsabile e versionata degli apporti ai progetti pubblicati utilizzando algoritmi del calibro di “Git” messi a disposizione nei cosiddetti Github, serbatoi di sistemi di sviluppo dal valore economico notevole.  
 	
-  Frequentando da diversi anni una quantità apprezzabile di “contenitori” di progetti open-source pubblicati ci siamo imbattuti in un “git” taggato come ‘computer vision’, ossia l’abilità di valutare gli spazi partendo dall’analisi delle immagini e/o dei flussi video. Basandosi su patterns predefiniti, che variano a seconda degli standard di riferimento, è possibile innanzi tutto riconoscere gli oggetti in movimento nello spazio e conseguentemente attribuire ad essi processi di qualsivoglia natura.
+  Frequentando da diversi anni una quantità apprezzabile di “contenitori” di progetti open-source pubblicati ci siamo imbattuti in un “git” taggato come ‘computer vision’, ossia l’abilità di valutare gli spazi partendo dall’analisi delle immagini e/o dei flussi video utilizzando la libreria [__OpenCV__] (https://opencv.org/).  Basandosi su patterns predefiniti, di **CNN** (Convolution Neuronal Network) sviluppatasi in vari modelli: 
+- [x] Logistic Regression; - [x] Support Vector Machine; - [x] Multilayered Neural Network; - [x] Decision Tree; - [x] KNN (K-Nearest Neighbors); - [x] Random Forest Classifier; - [x] Gradient Boosted Regression trees; - [x] XGBoost; 
+con le > Machine Learning (ML) < è possibile innanzi tutto imparare a riconoscere gli oggetti in movimento nello spazio e conseguentemente attribuire ad essi processi di qualsivoglia natura, a stimare movimenti e comportamenti. Il tutto con risorse a basso costo e potenzialità indefinite. 
+
+E sempre nell'ambito dell'apprendimento automatico segnaliamo librerie open-source capaci di generare i suddetti modelli senza essere in possesso di particolari conoscenze matematiche e sono [KERAS e TENSOR-FLOW](https://opencv.org/)
+
+  Nel segno della riduzione dei costi legati alla sperimentazione facciamo notare un'altro progetto di ingegneria software i [Docker-s] (https://www.docker.com/). Immagini multistrato tenute insieme da logiche di raggruppamento, già note al kernel LINUX, che facilitano di molto la gestione sistemistica.
 	
-  Nell’approfondire l’uso della suddetta tecnologia di computer-vision si sono evidenziate questioni fondamentali di privacy e riservatezza e dall’approfondimento di esse è sorta la prima proposta a realizzarsi con il presente progetto, che prende il nome di “analisi non in chiaro dei comportamenti disfunzionali”.
+  Nell’approfondire l’uso della suddetta tecnologia di computer-vision si sono evidenziate questioni fondamentali di privacy e riservatezza e dall’approfondimento di esse è sorta la prima proposta a realizzarsi con il presente progetto, che prende il nome di “analisi non in chiaro dei comportamenti disfunzionali” causa di una gran parte del malessere quotidiano.
 
 					Nasce il progetto ** SALUS-UTIS **
 
