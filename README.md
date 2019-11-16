@@ -37,7 +37,7 @@ dall'enciclopedia (Treccani), la definizione di salute [lat. salus -ūtis "salve
 
 Le motivazioni sono tutte legate all'idea fondamentale che l'intelligenza collettiva vada stimolata e accresciuta secondo le regole della __trasparenza__, della __collaborazione__ e della __partecipazione__. Diamo per scontato che siano conosciuti i processi storici e culturali, scientifici e filosofocici che hanno portato l'Amministrazione Obama, a produrre il [whitepaper] (https://obamawhitehouse.archives.gov/open/about/policy). Diamo per acquisito che si conosca **Aaron Swartz**, il martire del FOA.
 
-Fra i vari ispiratori, da un punto di vista ideologico, richiamiamo la conoscenza di **Edgar Morin** e la sua teoria della complessità grazie alla quale sono maturata in noi alcune consapevolezze, che sono alla base di questo think-Tank: c’è innanzi tutto quella della COMPLESSITÁ:
+Fra i vari ispiratori, da un punto di vista ideologico, richiamiamo la conoscenza di **Edgar Morin** e la sua teoria della complessità grazie alla quale sono maturata in noi alcune consapevolezze, che sono alla base di questo Think-Tank: c’è innanzi tutto quella della COMPLESSITÁ:
 siamo in un’epoca che ha bisogno di un cambiamento di paradigma e ciò arriva abbastanza di rado nella storia.
 Si tratta di sostituire la distinzione alla separazione, la dipendenza alla riduzione, occorre distinguere e allo stesso tempo collegare. È il paradigma, appunto, della complessità.
 La parola complesso vuole dire collegato, tessuto insieme e, dunque, il pensiero complesso è un pensiero che collega, da un lato inserendo nel contesto, cioè collegando al contesto, d’altra parte provando a comprendere ciò che
