@@ -14,7 +14,7 @@
 	
   Nell’approfondire l’uso della suddetta tecnologia di computer-vision si sono evidenziate questioni fondamentali di privacy e riservatezza e dall’approfondimento di esse è sorta la prima proposta a realizzarsi con il presente progetto, che prende il nome di “analisi non in chiaro dei comportamenti disfunzionali”.
 
-Nasce il progetto **#SALUS-UTIS**
+					Nasce il progetto **#SALUS-UTIS**
 
 dall'enciclopedia (Treccani), la definizione di salute [lat. salus -ūtis "salvezza, incolumità, integrità, salute", affine a salvus "salvo"] (lett.) [l'essere salvo, inteso per lo più come stato di benessere individuale o collettivo: s. pubblica, patria; la s. dell'anima; la s. eterna] ≈ bene.
 
