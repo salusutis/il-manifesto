@@ -11,14 +11,23 @@
   Abbiamo preso una posizione decidendo di sostenere i movimenti internazionali di “lotta” contro i sistemi chiusi e proprietari, in contesti "aperti", a vantaggio delle soluzioni realizzate con metodologie open-source all’interno di comunità di sviluppo che utilizzano metodologie di cooperazione responsabile e versionate degli apporti ai progetti, pubblicati, utilizzando algoritmi del calibro di “Git” messi a disposizione nei cosiddetti Github, serbatoi di sistemi di sviluppo dal valore economico notevole.  
 	
   Frequentando da diversi anni una quantità apprezzabile di “contenitori” di progetti open-source pubblicati ci siamo imbattuti in un “git” taggato come ‘computer vision’, ossia l’abilità di valutare gli spazi partendo dall’analisi delle immagini e/o dei flussi video utilizzando la libreria [__OpenCV__] (https://opencv.org/).  Basandosi su patterns predefiniti, di **CNN** (Convolution Neuronal Network) sviluppatasi in vari modelli: 
-- [x] Logistic Regression; - [x] Support Vector Machine; - [x] Multilayered Neural Network; - [x] Decision Tree; - [x] KNN (K-Nearest Neighbors); - [x] Random Forest Classifier; - [x] Gradient Boosted Regression trees; - [x] XGBoost; 
-con le > Machine Learning (ML) < è possibile innanzi tutto imparare a riconoscere gli oggetti in movimento nello spazio e conseguentemente attribuire ad essi processi di qualsivoglia natura, a stimare movimenti e comportamenti. Il tutto con risorse a basso costo e potenzialità indefinite. 
+  
+- [x] Logistic Regression; 
+- [x] Support Vector Machine; 
+- [x] Multilayered Neural Network; 
+- [x] Decision Tree; 
+- [x] KNN (K-Nearest Neighbors); 
+- [x] Random Forest Classifier; 
+- [x] Gradient Boosted Regression trees; 
+- [x] XGBoost; 
 
-E sempre nell'ambito dell'apprendimento automatico segnaliamo librerie open-source capaci di generare i suddetti modelli senza essere in possesso di particolari conoscenze matematiche e sono [KERAS e TENSOR-FLOW](https://opencv.org/)
+con le **Machine Learning (ML)** è possibile innanzi tutto imparare a riconoscere gli oggetti in movimento nello spazio e conseguentemente attribuire ad essi processi di qualsivoglia natura, a stimare movimenti e comportamenti. Il tutto con risorse a basso costo e potenzialità indefinite. 
+
+E sempre nell'ambito dell'apprendimento automatico segnaliamo librerie open-source capaci di generare i suddetti modelli senza essere in possesso di particolari conoscenze matematiche e sono [KERAS e TENSORFLOW](https://opencv.org/)
 
   Nel segno della riduzione dei costi legati alla sperimentazione facciamo notare un'altro progetto di ingegneria software i [Docker-s] (https://www.docker.com/). Immagini multistrato tenute insieme da logiche di raggruppamento, già note al kernel LINUX, che facilitano di molto la gestione sistemistica.
 	
-  Nell’approfondire l’uso della suddetta tecnologia di computer-vision si sono evidenziate questioni fondamentali di privacy e riservatezza e dall’approfondimento di esse è sorta la prima proposta a realizzarsi con il presente progetto, che prende il nome di “analisi non in chiaro dei comportamenti disfunzionali” causa di una gran parte del malessere quotidiano.
+  Nell’approfondire l’uso della suddetta tecnologia di computer-vision si sono evidenziate anche questioni fondamentali di privacy e riservatezza e dall’approfondimento di esse è sorta la prima proposta a realizzarsi con il presente progetto, che prende il nome di “analisi non in chiaro dei comportamenti disfunzionali e/o aberranti nei luoghi pubblici” causa di una gran parte del malessere quotidiano.
 
 					Nasce il progetto ** SALUS-UTIS **
 
@@ -26,9 +35,39 @@ dall'enciclopedia (Treccani), la definizione di salute [lat. salus -ūtis "salve
 
 >Il progetto ha la finalità di divulgare strumenti **open-source** e diffondere **open-data** al servizio dell'**INTELLIGENZA COLLETTIVA**.
 
-Le motivazioni sono tutte legate all'idea fondamentale che l'intelligenza collettiva vada stimolata e accresciuta secondo le regole della __trasparenza__, della __collaborazione__ e della __partecipazione__.
+Le motivazioni sono tutte legate all'idea fondamentale che l'intelligenza collettiva vada stimolata e accresciuta secondo le regole della __trasparenza__, della __collaborazione__ e della __partecipazione__. Diamo per scontato che siano conosciuti i processi storici e culturali, scientifici e filosofocici che hanno portato l'Amministrazione Obama, a produrre il [whitepaper] (https://obamawhitehouse.archives.gov/open/about/policy). Diamo per acquisito che si conosca **Aaron Swartz**, il martire del FOA.
+
+Fra i vari ispiratori, da un punto di vista ideologico, richiamiamo la conoscenza di **Edgar Morin** e la sua teoria della complessità grazie alla quale sono maturata in noi alcune consapevolezze, che sono alla base di questo think-Tank: c’è innanzi tutto quella della COMPLESSITÁ:
+siamo in un’epoca che ha bisogno di un cambiamento di paradigma e ciò arriva abbastanza di rado nella storia.
+Si tratta di sostituire la distinzione alla separazione, la dipendenza alla riduzione, occorre distinguere e allo stesso tempo collegare. È il paradigma, appunto, della complessità.
+La parola complesso vuole dire collegato, tessuto insieme e, dunque, il pen- siero complesso è un pensiero che collega, da un lato inserendo nel contes- to, cioè collegando al contesto, d’altra parte provando a comprendere ciò che
+è che un sistema (Edgar Morin).
+Il nostro progetto “è a sud di necessario e a nord di complesso”, qualcuno dovrà pure accettare questa sfida che passa anche attraverso le grandi conquiste mondiali del “Governo aperto“ basato sulla trasparenza, la partecipazione e la collaborazione, è così che si fa nei momenti difcili della storia, come quello che stiamo vivendo. Qualcuno si dovrà pur chiedere a che punto è l’intelligenza civica, l'intelligenza collettiva, domandarsi se siamo, appunto, abbastanza intelligenti (‘soon enough‘) per una società aperta. In America l’amministrazione Obama invocava “a **Peace Corps For Developers**“, un corpo di intellettuali onesti (la nostra traduzione) per mettere pace tra l’esigenza speculative dei professionisti e quella ai servizi dei cittadini.
+
+Quali sono le specifcità del nostro progetto? Da quali premesse partiamo e quali sono i nostri obiettivi? Tutto ha avuto inizio con la conoscenza di un architetto, dal nostro impegno civico e dalle nostre sensibilità, attratte e legate dalla curiosità. L'architetto è Giuseppe dell'Aquila, fgura dinamica, determinata e preparata che ci ha sottoposto un documento intitolato “Un approccio corale e condiviso al terri- torio”, già nei termini l'aggettivo corale, più che condiviso, ha attivato il cosiddetto ‘trigger’, in informatica l’evento, diciamo così, l’automatismo delle competenze in- formatiche di alcuni di noi, tipo i vari sistemi di orchestrazione dei sistemi operativi
+e l’utilizzo del kernel Linux con le relative funzionalità, per gli addetti ai lavori si pensi ai docker, contenitori, che sfruttano i cgroups ed i namespace, che consentono di lavorare con microsistemi responsabili, autonomi e completi che si stratifcano, per i non addetti ai lavori si pensi semplicemente ad un modo di raggruppare delle istruzioni che valgono solo per un determinato spazio e per un determinato tempo. La vicinanza della materia di cui si sta parlando all’informatica è incredibile.
+Dalla lettura breve, ma intensa, del suddetto documento emergevano riferimenti a teorie e criteri rivoluzionari, ma di una rivoluzione ‘vecchia’, che parte dagli anni ‘70 ma che è rimasta incompiuta perché disattesa; si parla di una logica open-source, di una progettazione peer-to-peer e dell’impiego dei patterns introdotti dal matematico **Christofer Alexander**, ma anche della necessità di rendere le dinamiche progettuali fgurative, evidenti, visive come una mappa concettuale costituita da risorse reali, autonome ma interconnesse come sollecitato da Kevin Lynch (spiegheremo a breve i termini sopra evidenziati).
+
+I tempi sono maturi per dismettere l’architettura di rete di tipo Client/Server, detto in parole semplici, dove tutto è centralizzato, dalla logica delle infrastrutture a quella dei servizi, tutto passa attraverso un “centro specializzato” che soddisfa le richieste dei fab- bisogni dei “client”. Il nuovo modello si basa su un sistema detto peer-to-peer, dove ogni client/risorsa è alla pari ed autonoma e decide di mettersi in “comunione”, sempre alla pari con chi vuole lei, direttamente, con un altro peer, un suo pari, di rendersi accessibile, liberamente, per andare a formare un pattern aperto di condivisione. Anche il termine pattern non è proprio potabile al 100%, ha bisogno di essere depurato da tanti signif- cati assunti in diversi contesti, il pattern è un modello strutturato (vuol dire che c’è della matematica sotto), una regolarità percepibile nel mondo reale o in un design artifciale. In quanto tale, gli elementi di un modello si ripetono in modo più o meno prevedibile, per esempio una simmetria, una spirale, apparenti casualità, onde, dune, bolle, fratture, macchie, strisce, e tanto altro ancora.
 
 L'accrescimento dell'itelligenza collettiva può giovarsi enormemente della tecnologia, anzi dovrebbe, dato anche l'effetto dell'onda lunga che tra non molto produrrà l'intelligenza artificiale applicata alla nostra mediocrità.
+
+
+Entrando nello specifco di quella che sarà l’attività che si andrebbe a svolgere indentifchiamo:
+a) L’apporto culturale sotto qualsiasi forma: letteratura, arte grafca o fotogra fca, arte in genere, musica;
+b) la promozione e la guida nell’allestimento degli URBAN-CENTER;
+c) la predisposizione di momenti di progettazione partecipata con stackholder
+individuati dopo un attento percorso valutativo;
+d) monitoraggio e catalogazione dei sistemi informatici (OPEN-SOURCE) legati:
+1) alla lettura intelligente del territorio;
+2) allo scambio di dati in automatico fra risorse (IoT) all’interno dei pat-
+terns, verso servizi, quali ad esempio quelli di AI;
+3) banche-dati di varia natura, geospaziali, no-Sql, SQL;
+4) alla gestione di interoperabiltà (C2G) sul web tra cittadini e istituzioni e) relazioni di codifca propedeutiche agli studi di fattibilità richiesti dalla Pub-
+blica Amministrazione e advocacy
+f) monitoraggio, misurazione e catalogazione dei sensori in commercio da impiegare nella conversione da anologico a digitale, fondamentale per sfruttare al meglio le opportuni-
+tà del DIY (Do It Yourself), soprattutto nel cam-
+po del monitoraggio della qualità dell’ambiente.
 
 Il progetto si prefigge di:
 - [x] pubblicare datasets sulla piattafoprma [CKAN](https://ckan.org/) e [plugin D-CAT](https://www.dati.gov.it/content/ckan-datigovit) per consentire la possibilità di interagire con il DATA.GOV.IT;
