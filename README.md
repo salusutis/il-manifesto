@@ -29,7 +29,7 @@ E sempre nell'ambito dell'apprendimento automatico segnaliamo librerie open-sour
 	
   Nell’approfondire l’uso della suddetta tecnologia di computer-vision si sono evidenziate anche questioni fondamentali di privacy e riservatezza e dall’approfondimento di esse è sorta la prima proposta a realizzarsi con il presente progetto, che prende il nome di “analisi non in chiaro dei comportamenti disfunzionali e/o aberranti nei luoghi pubblici” causa di una gran parte del malessere quotidiano.
 
-					Nasce il progetto ** SALUS-UTIS **
+>Nasce il progetto ** SALUS-UTIS **
 
 dall'enciclopedia (Treccani), la definizione di salute [lat. salus -ūtis "salvezza, incolumità, integrità, salute", affine a salvus "salvo"] (lett.) [l'essere salvo, inteso per lo più come stato di benessere individuale o collettivo: s. pubblica, patria; la s. dell'anima; la s. eterna] ≈ bene.
 
@@ -52,9 +52,9 @@ Dalla lettura breve, ma intensa, del suddetto documento emergevano riferimenti a
 
 I tempi sono maturi per dismettere l’architettura di rete di tipo Client/Server, detto in parole semplici, dove tutto è centralizzato, dalla logica delle infrastrutture a quella dei servizi, tutto passa attraverso un “centro specializzato” che soddisfa le richieste dei fabbisogni dei “client”. Il nuovo modello si basa su un sistema detto peer-to-peer, dove ogni client/risorsa è alla pari ed autonoma e decide di mettersi in “comunione”, sempre alla pari con chi vuole, direttamente, con un altro peer, un suo pari, di rendersi accessibile, liberamente, per andare a formare un pattern aperto di condivisione.
 
-Anche il termine pattern non è proprio potabile al 100%, ha bisogno di essere depurato da tanti signifcati assunti in diversi contesti, il pattern è un modello strutturato (vuol dire che c’è della matematica sotto), una regolarità percepibile nel mondo reale o in un design artifciale. In quanto tale, gli elementi di un modello si ripetono in modo più o meno prevedibile, per esempio una simmetria, una spirale, apparenti casualità, onde, dune, bolle, fratture, macchie, strisce, e tanto altro ancora.
+Anche il termine pattern non è proprio potabile al 100%, ha bisogno di essere depurato da tanti significati assunti in diversi contesti, il pattern è un modello strutturato (vuol dire che c’è della matematica sotto), una regolarità percepibile nel mondo reale o in un design artifciale. In quanto tale, gli elementi di un modello si ripetono in modo più o meno prevedibile, per esempio una simmetria, una spirale, apparenti casualità, onde, dune, bolle, fratture, macchie, strisce, e tanto altro ancora.
 
-L'accrescimento dell'itelligenza collettiva può giovarsi enormemente della tecnologia, anzi dovrebbe, dato anche l'effetto dell'onda lunga che tra non molto produrrà l'intelligenza artificiale applicata alla nostra mediocrità.
+L'accrescimento dell'itelligenza collettiva può giovarsi enormemente della tecnologia, anzi dovrebbe, dato anche l'effetto dell'onda lunga che tra non molto produrrà l'intelligenza artificiale applicata alla nostra "mediocrità".
 
 Entrando nello specifco di quella che sarà l’attività che si andrebbe a svolgere indentifchiamo:
 a) L’apporto culturale sotto qualsiasi forma: letteratura, arte grafca o fotogra fca, arte in genere, musica;
@@ -66,11 +66,8 @@ d) monitoraggio e catalogazione dei sistemi informatici (OPEN-SOURCE) legati:
 2) allo scambio di dati in automatico fra risorse (IoT) all’interno dei pat-
 terns, verso servizi, quali ad esempio quelli di AI;
 3) banche-dati di varia natura, geospaziali, no-Sql, SQL;
-4) alla gestione di interoperabiltà (C2G) sul web tra cittadini e istituzioni e) relazioni di codifca propedeutiche agli studi di fattibilità richiesti dalla Pub-
-blica Amministrazione e advocacy
-f) monitoraggio, misurazione e catalogazione dei sensori in commercio da impiegare nella conversione da anologico a digitale, fondamentale per sfruttare al meglio le opportuni-
-tà del DIY (Do It Yourself), soprattutto nel cam-
-po del monitoraggio della qualità dell’ambiente.
+4) alla gestione di interoperabiltà (C2G) sul web tra cittadini e istituzioni e) relazioni di codifca propedeutiche agli studi di fattibilità richiesti dalla Pubblica Amministrazione e **advocacy**
+f) monitoraggio, misurazione e catalogazione dei sensori in commercio da impiegare nella conversione da anologico a digitale, fondamentale per sfruttare al meglio le opportunità del DIY (Do It Yourself), soprattutto nel campo del monitoraggio della qualità dell’ambiente.
 
 Il progetto si prefigge di:
 - [x] pubblicare datasets sulla piattafoprma [CKAN](https://ckan.org/) e [plugin D-CAT](https://www.dati.gov.it/content/ckan-datigovit) per consentire la possibilità di interagire con il DATA.GOV.IT;
@@ -81,7 +78,7 @@ I fenomeni della realtà incidono sulla qualità della vita, essi possono essere
 
 I DATI prodotti dovranno essere resi "potabili" ai più, ai non addetti ai lavori (alla cittadinanza).     
 
-Impiegheremo prevalentemente siluzioni DIY (do-it-yourself) ma per rendere il tutto più sistemico potremmo pubblicare un elenco dei prodotti commerciai a ciò funzionali e maggiormente rispondenti ai suddetti principi.
+Impiegheremo prevalentemente siluzioni DIY ma per rendere il tutto più sistemico potremmo pubblicare un elenco dei prodotti commerciai a ciò funzionali e maggiormente rispondenti ai suddetti principi.
 
 
 
