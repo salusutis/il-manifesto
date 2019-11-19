@@ -37,7 +37,7 @@ Le ricerche continue hanno evidenziato anche una ulteriore opportunità, che som
 - [x] Arduino
 - [x] Raspberry
 - [x] Orange
-- [x] Elegoo
+- [x] Elegoo
 - [x] Esp8266
 
 Inoltre esistono kit contenenti una quantità considerevole di sensori a basso costo e con caratteristiche apprezzabili, come il rilevatore di particolato PM10 e PM2.5 utilizzato nel progetto in calce alla presente, sommaria, espisione della nostrab idea.
