@@ -3,7 +3,7 @@
   Muovendo i primi passi nel contesto della formazione, in ambito informatico, nelle scuole pubbliche e nelle pubbliche amministrazioni in genere, abbiamo affrontato temi che dal contesto informatico si dipanavano in questioni di vario genere e soprattutto carichi di una forte ricaduta sociale, quindi umanistica e paradossalmente filosofica. 
 
   Fra tutte, ad appassionarci, è la questione legata al potenziale smisurato che i sistemi di elaborazione dati hanno se interfacciati alla sensoristica sempre più a basso costo e sempre più fedele agli standard internazionali, semplificando, ci siamo posti l’interrogativo su quale, attualmente, sia il valore che si determina, e sempre più si svilupperà, dall’incontro tra l’analogico ed il digitale impiegando connessioni, algoritmi/librerie open-source e protocolli standard, la risposta è indefinito. 
-  Ci siamo interrogati spesso su quali potessero essere le conseguenze legate alla produzione di una tale massa critica di informazioni e quali gli effetti sulla società che ha iniziato a subire tale penetrante e invasiva diffusione di raccoglitori di storitelling e dati, ad esempio tramite i “social” o l’impiego di profili gratuiti di clouding o la diffusione dell' IoT’s, in termini di soggezione e pertanto se da tale dipendenza esistano possibilità di riscatto “fisiologiche”. 
+  Ci siamo interrogati spesso su quali potessero essere le conseguenze legate alla produzione di una tale massa critica di informazioni e quali gli effetti sulla società che ha iniziato a subire tale penetrante e invasiva diffusione di raccoglitori di storytelling e dati, ad esempio tramite i “social” o l’impiego di profili gratuiti di clouding o la diffusione dell' IoT’s, in termini di soggezione e pertanto se da tale dipendenza esistano possibilità di riscatto “fisiologiche”. 
 
   É opportuno sommare inoltre il peso dei processi di apprendimento automatico che avviene utilizzando le "macchine che apprendono". Spesso sfugge la portata e la rilevanza che ha una raccolta di dati planetaria delle dinamiche collettive unita a processi di auto-encoding. 
 
@@ -32,7 +32,7 @@ Sempre nell'ambito dell'apprendimento automatico segnaliamo librerie open-source
 
 Si deve a questo punto segnalare che dedicarsi alla sperimentazione nei LIT (**LABORATORI** per le **INNOVAZIONI** **TECNOLOGICHE**) per i Comuni, ai livelli sopra sommariamente indicati, fa presuppore notevoli costi in termini di risorse professionali, soprattutto in merito alla predisposizione dell'ambiente di sviluppo per poter attivare i servizi necessari ad  operare con le librerie necessarie, praticamente ci si riferisce all'aspetto sistemistico grazie ad una nuova soluzione. Sempre nel segno della riduzione dei costi legati alla sperimentazione facciamo notare i [Docker-s] (https://www.docker.com/): contenitori che sfruttano i cgroups ed i namespace, che consentono di lavorare con microsistemi responsabili, autonomi e completi che si stratifcano, per i non addetti ai lavori si pensi semplicemente ad un modo di raggruppare delle istruzioni che valgono solo per un determinato spazio e per un determinato tempoImmagini multistrato tenute insieme da logiche di raggruppamento, già note al kernel LINUX, che facilitano di molto la gestione sistemistica.
 
-I LIT per i Comuni costituiscono il luogo in cui si svilupperebbe la sperimentazione condivisa con altri enti al fine di collaborare in maniera partecipata (e trasparente) ai protoccili di adozione delle tecnologie qui indicate ed altre da individuare ed accreditare per la Pubblica mministrazione. 
+I **LIT** per i Comuni costituiscono il luogo in cui si svilupperebbe la sperimentazione al fine di collaborare in maniera partecipata (e trasparente) all'adozione delle tecnologie qui indicate ed altre da individuare per la Pubblica Amministrazione. 
 
 Le ricerche continue hanno evidenziato anche una ulteriore opportunità, che può sommarsi alle altre sopra accennate, ossia la diffusione di microcontrollori con elevata capacità computazionale, ridotte dimensioni e corredate di una complea gamma di connessioni:
 
@@ -103,7 +103,7 @@ I fenomeni della realtà incidono sulla qualità della vita, essi possono essere
 
 I DATI prodotti dovranno essere resi "potabili" ai più, ai non addetti ai lavori (alla cittadinanza).     
 
-Impiegheremo prevalentemente siluzioni DIY ma per rendere il tutto più sistemico potremmo pubblicare un elenco dei prodotti commerciai a ciò funzionali e maggiormente rispondenti ai suddetti principi.
+Impiegheremo prevalentemente siluzioni DIY ma per rendere il tutto più sistemico potremmo pubblicare un elenco dei prodotti commerciali a ciò funzionali e maggiormente rispondenti ai suddetti principi.
 
 
 - [LOGICHE SISTEMISTICHE](docs/sistemistica.md)
