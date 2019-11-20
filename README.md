@@ -32,9 +32,9 @@ Sempre nell'ambito dell'apprendimento automatico segnaliamo librerie open-source
 
 Si deve a questo punto segnalare che dedicarsi alla sperimentazione nei LIT (**LABORATORI** per le **INNOVAZIONI** **TECNOLOGICHE**) per i Comuni, ai livelli sopra sommariamente indicati, fa presuppore notevoli costi in termini di risorse professionali, soprattutto in merito alla predisposizione dell'ambiente di sviluppo per poter attivare i servizi necessari ad  operare con le librerie necessarie, praticamente ci si riferisce all'aspetto sistemistico grazie ad una nuova soluzione. Sempre nel segno della riduzione dei costi legati alla sperimentazione facciamo notare i [Docker-s] (https://www.docker.com/): contenitori che sfruttano i cgroups ed i namespace, che consentono di lavorare con microsistemi responsabili, autonomi e completi che si stratifcano, per i non addetti ai lavori si pensi semplicemente ad un modo di raggruppare delle istruzioni che valgono solo per un determinato spazio e per un determinato tempo, immagini multistrato tenute insieme da logiche di raggruppamento, già note al kernel LINUX, che facilitano di molto la gestione sistemistica.
 
-I **LIT** per i Comuni costituiscono il luogo in cui si svilupperebbe la sperimentazione al fine di collaborare in maniera partecipata (e trasparente) all'adozione delle tecnologie qui indicate ed altre da individuare per la Pubblica Amministrazione. 
+>I **LIT** per i Comuni costituiscono il luogo in cui si svilupperebbe la sperimentazione al fine di collaborare in maniera partecipata (e trasparente) all'adozione delle tecnologie qui indicate ed altre da individuare per la Pubblica Amministrazione. 
 
-Le ricerche continue hanno evidenziato anche una ulteriore opportunità, che può sommarsi alle altre sopra accennate, ossia la diffusione di microcontrollori con elevata capacità computazionale, ridotte dimensioni e corredate di una complea gamma di connessioni:
+Le ricerche continue hanno evidenziato anche una ulteriore opportunità, che può sommarsi alle altre sopra accennate, ossia la diffusione di microcontrollori con elevata capacità computazionale, ridotte dimensioni e corredate di una completa gamma di connessioni:
 
 - [x] Arduino
 - [x] Raspberry
