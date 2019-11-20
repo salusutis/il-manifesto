@@ -83,7 +83,7 @@ Entrando nello specifco di quella che sarà l’attività che si andrebbe a svol
 
 a) L’apporto culturale sotto qualsiasi forma: letteratura, arte grafca o fotogra fca, arte in genere, musica;
 b) la promozione e la guida nell’allestimento dei LIT (LABORATORI per l'INNOVAZIONE TECNOLOGICA per i Comuni) e degli URBAN-CENTER;
-c) la predisposizione di momenti di progettazione partecipata con stackholder
+c) la predisposizione di momenti di progettazione partecipata con stackholders
 individuati dopo un attento percorso valutativo;
 d) monitoraggio e catalogazione dei sistemi informatici (OPEN-SOURCE) legati:
 
