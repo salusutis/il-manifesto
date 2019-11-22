@@ -26,7 +26,7 @@
 - [x] Gradient Boosted Regression trees; 
 - [x] XGBoost; 
 
-con l'impiego delle **Machine Learning (ML)** è possibile imparare a riconoscere gli oggetti nello spazio e conseguentemente attribuire ad essi processi di qualsivoglia natura e stimarne i movimenti ed i comportamenti. Il tutto con risorse a basso costo e potenzialità di tutto riguardo. 
+con l'impiego del **Deep Learning (DL)** è possibile imparare a riconoscere gli oggetti nello spazio e conseguentemente attribuire ad essi processi di qualsivoglia natura e stimarne i movimenti ed i comportamenti. Il tutto con risorse a basso costo e potenzialità di tutto riguardo. 
 
 Sempre nell'ambito dell'apprendimento automatico segnaliamo librerie open-source capaci di generare i suddetti modelli senza essere in possesso di particolari conoscenze matematiche e sono [KERAS e TENSORFLOW]
 
