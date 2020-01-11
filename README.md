@@ -9,7 +9,7 @@
 
   Attraversando questi "spazi" siamo giunti alla convinzione che occorre sin da subito sostenere coloro i quali si battono per un bilanciamento delle forze in campo, ossia tra le realtà proprietarie dei suddetti sistemi, da una parte, e gli utilizzatori finali intesi non solo come semplici consumatori, al fine di limitare il predominio inconsapevole ed indiscusso di un numero limitato di gestori.
 
-  Abbiamo pertanto preso la posizione di sostenere i movimenti internazionali che si avvantaggiano a favore delle soluzioni realizzate con metodologie open-source all’interno di comunità di sviluppo che utilizzano logiche di cooperazione responsabile e versionate degli apporti ai progetti, pubblicati, utilizzando algoritmi del calibro di “Git” messi a disposizione nei cosiddetti Github, serbatoi di sistemi di sviluppo dal valore economico considerevole.  
+  Abbiamo pertanto preso la posizione di sostenere i movimenti internazionali che si avvantaggiano delle soluzioni realizzate con metodologie open-source all’interno di comunità di sviluppo che utilizzano logiche di cooperazione responsabile e versionate degli apporti ai progetti, pubblicati, utilizzando algoritmi del calibro di “Git” messi a disposizione nei cosiddetti Github, serbatoi di sistemi di sviluppo dal valore economico considerevole.  
 	
   Frequentando da diversi anni una quantità apprezzabile di “contenitori” di progetti open-source pubblicati ci siamo imbattuti in un “git” taggato ‘computer vision’, ossia l’abilità di valutare gli spazi e gli oggetti contenuti in essi partendo dall’analisi delle immagini e/o dei flussi video utilizzando la libreria [__OpenCV__] (https://opencv.org/).  
   
