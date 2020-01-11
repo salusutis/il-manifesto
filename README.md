@@ -63,7 +63,7 @@ siamo in un’epoca che ha bisogno di un cambiamento di paradigma e ciò arriva 
 Si tratta di sostituire la distinzione alla separazione, la dipendenza alla riduzione, occorre distinguere e allo stesso tempo collegare. È il paradigma, appunto, della complessità.
 La parola complesso vuole dire collegato, tessuto insieme e, dunque, il pensiero complesso è un pensiero che collega, da un lato inserendo nel contesto, cioè collegando al contesto, d’altra parte provando a comprendere ciò che è che un sistema (Edgar Morin).
 
-Il nostro progetto “è a sud di necessario e a nord di complesso”, qualcuno dovrà pure accettare questa sfida che passa anche attraverso le grandi conquiste mondiali del “Governo aperto“ basato sulla trasparenza, la partecipazione e la collaborazione, è così che si fa nei momenti difcili della storia, come quello che stiamo vivendo. 
+Il nostro progetto “è a sud di necessario e a nord di complesso”, qualcuno dovrà pure accettare questa sfida che passa anche attraverso le grandi conquiste mondiali del “Governo aperto“ basato sulla trasparenza, la partecipazione e la collaborazione, è così che si fa nei momenti difficili della storia, come quello che stiamo vivendo. 
 
 Qualcuno si dovrà pur chiedere a che punto è l’intelligenza civica, l'intelligenza collettiva, domandarsi se siamo, appunto, abbastanza intelligenti (‘soon enough‘) per una società aperta. In America l’amministrazione Obama invocava “a **Peace Corps For Developers**“, un corpo di intellettuali onesti (la nostra traduzione) per mettere pace tra l’esigenza speculative dei professionisti e quella ai servizi dei cittadini.
 
@@ -79,10 +79,10 @@ Anche il termine pattern non è proprio potabile al 100%, ha bisogno di essere d
 
 L'accrescimento dell'itelligenza collettiva può giovarsi enormemente della tecnologia, anzi dovrebbe, dato anche l'effetto dell'onda lunga che tra non molto produrrà l'intelligenza artificiale applicata alla nostra "mediocrità".
 
-Entrando nello specifco di quella che sarà l’attività che si andrebbe a svolgere indentifchiamo:
+Entrando nello specifco di quella che sarà l’attività che si andrebbe a svolgere indentifichiamo:
 
 a) L’apporto culturale sotto qualsiasi forma: letteratura, arte grafca o fotogra fca, arte in genere, musica;
-b) la promozione e la guida nell’allestimento dei LIT (LABORATORI per l'INNOVAZIONE TECNOLOGICA per i Comuni) e degli URBAN-CENTER;
+b) la promozione e la guida nell’allestimento dei LIT (LABORATORI sperimentali per l'INNOVAZIONE TECNOLOGICA per i Comuni) e degli URBAN-CENTER;
 c) la predisposizione di momenti di progettazione partecipata con stackholders
 individuati dopo un attento percorso valutativo;
 d) monitoraggio e catalogazione dei sistemi informatici (OPEN-SOURCE) legati:
@@ -92,7 +92,7 @@ d) monitoraggio e catalogazione dei sistemi informatici (OPEN-SOURCE) legati:
 	3) banche-dati di varia natura, geospaziali, no-Sql, SQL;
 	4) alla gestione di interoperabiltà (C2G) sul web tra cittadini e istituzioni e) relazioni di codifca propedeutiche agli studi di fattibilità richiesti dalla Pubblica Amministrazione e **advocacy**
 
-e) monitoraggio, misurazione e catalogazione dei sensori in commercio da impiegare nella conversione da anologico a digitale, fondamentale per sfruttare al meglio le opportunità del DIY (Do It Yourself), soprattutto nel campo del monitoraggio della qualità dell’ambiente.
+e) monitoraggio, misurazione e catalogazione dei sensori in commercio da impiegare nella conversione da analogico a digitale, fondamentale per sfruttare al meglio le opportunità del DIY (Do It Yourself), soprattutto nel campo del monitoraggio della qualità dell’ambiente.
 
 Il progetto si prefigge di:
 - [x] pubblicare datasets sulla piattafoprma [CKAN](https://ckan.org/) e [plugin D-CAT](https://www.dati.gov.it/content/ckan-datigovit) per consentire la possibilità di interagire con il DATA.GOV.IT;
