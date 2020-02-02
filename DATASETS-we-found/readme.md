@@ -1,5 +1,5 @@
 
-# Datasets
+# Datasets (http://deeplearning.net/datasets/)
 
 These datasets can be used for benchmarking deep learning algorithms:
 
