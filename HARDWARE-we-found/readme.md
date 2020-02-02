@@ -1,7 +1,4 @@
 
-x prodotto
-^^^^^^^^^^
-
 
 ESP:
 - Espcopter
