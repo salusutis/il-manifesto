@@ -1,5 +1,5 @@
 
-# MICROCONTROLLRI
+# MICROCONTROLOLRI
 >ESP:
 - Espcopter
 - 8266
@@ -12,6 +12,7 @@
 >NVDIA:
 - Jetson TX2
 
+# SENSORI
 >SENSORI:
 - CJMCU-4541 mics-4514  => sensore di ossigeno
 - DHT22                 => sensore di umidità
