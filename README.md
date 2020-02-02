@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <br><br>
-  <img src="https://avatars3.githubusercontent.com/u/57659134">
+  <img src="https://avatars3.githubusercontent.com/u/57659134" width="128" height="128">
 </p>
 
 > In breve e in maniera semplicistica il progetto che stiamo portando avanti con un gruppo di colleghi e amici con competenze e di professioni diverse:  
