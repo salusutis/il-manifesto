@@ -4,7 +4,7 @@
   <h4 align="center">abstract</h4>
   <h2 align="center"> divulgazione di strumenti open-source e diffusione degli open-data al servizio dell'INTELLIGENZA COLLETTIVA.</h2>
   <br><br>
-  <img align="middle" height="150" width="150" src="https://avatars3.githubusercontent.com/u/57659134?s=400&u=7156c3951ad58daf808e8ef60798040f42e65790&v=4">
+  <img align="middle" height="150" width="150" src="https://drive.google.com/open?id=1gIT1cUbYGtrnU1r1c-cMQ4ASXihRtLff">
 </p>
 
 > In breve e in maniera semplicistica il progetto che stiamo portando avanti con un gruppo di colleghi e amici con competenze e di professioni diverse:  
