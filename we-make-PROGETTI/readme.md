@@ -2,4 +2,5 @@
 ## I NOSTRI OBIETTIVI
 
 > - INFRASTRUTTURA COMUNALE PER LA GESTIONE DEI DATI BY I.O.T. (mapping - rest/api - sensors)
+<br></br>
 > - NONITORAGGIO DEI COMPORTAMENTI ABERRANTI NEI LUIGHI PUBBLICI  (computer vision - deep learning)
