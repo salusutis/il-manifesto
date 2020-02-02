@@ -1,15 +1,9 @@
 
 
 <p align="center">
-<style>
-.marginauto {
-    margin: 10px auto 20px;
-    display: block;
-}
-</style>
   <h4 align="center">abstract</h4>
   <h2 align="center"> divulgazione di strumenti open-source e diffusione degli open-data al servizio dell'INTELLIGENZA COLLETTIVA.</h2>
-  <img class="marginauto" height="150" width="150" src="https://avatars3.githubusercontent.com/u/57659134">
+  <img height="150" width="150" src="https://avatars3.githubusercontent.com/u/57659134">
 </p>
 
 > In breve e in maniera semplicistica il progetto che stiamo portando avanti con un gruppo di colleghi e amici con competenze e di professioni diverse:  
