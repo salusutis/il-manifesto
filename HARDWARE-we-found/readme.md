@@ -19,3 +19,4 @@
 - BME280                => sensor module reads barometric pressure, temperature, and humidity. 
                            Because pressure changes with altitude, you can also estimate altitude.
 - MQ-9                  => sensore per il monosssido di carbonio e GPL
+- MQ-138                => sensore per la rilevazione in formaldeide
