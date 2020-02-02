@@ -1,5 +1,8 @@
 
-# Datasets (http://deeplearning.net/datasets/)
+# Datasets 
+
+(http://deeplearning.net/datasets/)
+(https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/)
 
 These datasets can be used for benchmarking deep learning algorithms:
 
