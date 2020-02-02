@@ -1,10 +1,10 @@
 
-# abstract
+
 <p align="center">
-  <b>Some Links:</b><br>
-  ## divulgazione di strumenti open-source e diffusione degli open-data al servizio dell'INTELLIGENZA COLLETTIVA.
+  <h4>abstract</h4>
+  <h2> divulgazione di strumenti open-source e diffusione degli open-data al servizio dell'INTELLIGENZA COLLETTIVA.</h2>
   <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  <img src="#">
 </p>
 
 > In breve e in maniera semplicistica il progetto che stiamo portando avanti con un gruppo di colleghi e amici con competenze e di professioni diverse:  
