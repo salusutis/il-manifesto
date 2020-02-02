@@ -1,20 +1,16 @@
 
-
+#MICROCONTROLLRI
 >ESP:
 - Espcopter
 - 8266
-
-
-
->NVDIA:
-- Jetson TX2
-
-
-
 >RASPBERRY
 - p3/p4
-
-
+>Arduino 
+-UNO
+-YUN
+>ELEGOO
+>NVDIA:
+- Jetson TX2
 
 >SENSORI:
 - CJMCU-4541 mics-4514  => sensore di ossigeno
