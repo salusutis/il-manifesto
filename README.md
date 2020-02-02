@@ -5,7 +5,6 @@
   <h2 align="center"> divulgazione di strumenti open-source e diffusione degli open-data al servizio dell'INTELLIGENZA COLLETTIVA.</h2>
 </p>
 <p align="center">
-  <br><br>
   <img src="https://avatars3.githubusercontent.com/u/57659134" width="128" height="128">
 </p>
 
