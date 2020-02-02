@@ -7,7 +7,6 @@ Avremmo il desiderio di produrre un elaborato periodico a sostegno della necessi
 Al momento ci staimo riferendo a figure professionali esperte in open-data e legate ad enti istituzionali (Paolicelli Francesco consulente open government e della Camera dei Deputati, ing. Aliverti specializzato nella comunicazione online di progetti DIY e medici appartenenti alle ASL facenti parte del gruppo dei "medici sentinella". 
 Crediamo nel valore sociale ancorché scientifico che tali open-data potrebbero avere in ambito territoriale.
 Vi salutiamo con stima e affetto, in attesa di incontrarvi personalmente.
-Raffaella Scelzi e il gruppo L.I.T. .
 
 
 # L'IDEA
