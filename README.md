@@ -1,4 +1,3 @@
-![GitHub Logo](/)
 
 #abstract
 > In breve e in maniera semplicistica il progetto che stiamo portando avanti con un gruppo di colleghi e amici con competenze e di professioni diverse:  
