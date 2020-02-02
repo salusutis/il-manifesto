@@ -1,3 +1,6 @@
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 #abstract
 > In breve e in maniera semplicistica il progetto che stiamo portando avanti con un gruppo di colleghi e amici con competenze e di professioni diverse:  
 abbiamo avviato un L.I.T., Laboratorio sperimentale per le Innovazioni Tecnologiche  al servizio degli enti comunali, con il comune di Spinazzola come capofila in cui stiamo allestendo infrastrutture di monitoraggio per produrre open-data con strumenti sviluppati con logiche open-source su vari aspetti legati alla qualità della vita e del territorio come riferimento. La raccolta dei dati sarà fruibile per l'appunto su installazioni specializzate come il CKAN (con plugin D-CAT), su GIS e/o altre molteplici soluzioni di mappatura. L'aspetto fondamentale è costituito dall'impegno di ricercare e selezionare in maniera continua progetti che abbiano uno sviluppo sui cosiddetti Git-Hub e siano open-source.
