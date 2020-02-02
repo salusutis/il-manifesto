@@ -1,4 +1,4 @@
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/lit-image.png)
 Format: ![Alt Text](url)
 
 #abstract
