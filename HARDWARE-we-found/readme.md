@@ -18,3 +18,4 @@
 - SDS011                => sensore prticolato PM2.5 / PM10
 - BME280                => sensor module reads barometric pressure, temperature, and humidity. 
                            Because pressure changes with altitude, you can also estimate altitude.
+- MQ-9                  => sensore per il monosssido di carbonio e GPL
