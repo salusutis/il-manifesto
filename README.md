@@ -1,8 +1,8 @@
 
 
-<p align="center">
-  <h4>abstract</h4>
-  <h2> divulgazione di strumenti open-source e diffusione degli open-data al servizio dell'INTELLIGENZA COLLETTIVA.</h2>
+<p >
+  <h4 align="center">abstract</h4>
+  <h2 align="center"> divulgazione di strumenti open-source e diffusione degli open-data al servizio dell'INTELLIGENZA COLLETTIVA.</h2>
   <br><br>
   <img src="#">
 </p>
