@@ -3,15 +3,10 @@
 <p align="center">
   <h4 align="center">abstract</h4>
   <h2 align="center"> divulgazione di strumenti open-source e diffusione degli open-data al servizio dell'INTELLIGENZA COLLETTIVA.</h2>
-  <img src="https://avatars3.githubusercontent.com/u/57659134">
 </p>
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
   <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  <img src="https://avatars3.githubusercontent.com/u/57659134">
 </p>
 
 > In breve e in maniera semplicistica il progetto che stiamo portando avanti con un gruppo di colleghi e amici con competenze e di professioni diverse:  
