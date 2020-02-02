@@ -6,8 +6,8 @@
 >RASPBERRY
 - p3/p4
 >Arduino 
--UNO
--YUN
+- UNO
+- YUN
 >ELEGOO
 >NVDIA:
 - Jetson TX2
