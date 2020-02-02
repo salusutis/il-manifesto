@@ -11,7 +11,7 @@ These datasets can be used for benchmarking deep learning algorithms:
 - JSB Chorales: set of four-part harmonized chorales (http://www.jsbchorales.net/index.shtml)
 - FMA: A Dataset For Music Analysis (https://github.com/mdeff/fma)
 
-##Natural Images
+## Natural Images
 
 - MNIST: handwritten digits (http://yann.lecun.com/exdb/mnist/)
 - NIST: similar to MNIST, but larger
