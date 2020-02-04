@@ -122,11 +122,7 @@ I fenomeni della realtà incidono sulla qualità della vita, essi possono essere
 I DATI prodotti dovranno essere resi "potabili" ai più, ai non addetti ai lavori (alla cittadinanza).     
 
 Impiegheremo prevalentemente siluzioni DIY ma per rendere il tutto più sistemico potremmo pubblicare un elenco dei prodotti commerciali a ciò funzionali e maggiormente rispondenti ai suddetti principi.
-
-
-- [LOGICHE SISTEMISTICHE](docs/sistemistica.md)
-- [LOGICHE DI PROGRAMMAZIONE](docs/programmazione.md)                         
-                             
+                                                   
                            
 Forkiamo un progetto per iniziare:
 
